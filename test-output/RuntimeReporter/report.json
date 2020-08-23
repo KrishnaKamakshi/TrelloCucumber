@@ -1,0 +1,71 @@
+{
+  "reportSummary": {
+    "testMethodsSummary": {
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0
+    },
+    "configurationMethodsSummary": {
+      "passed": 2,
+      "failed": 0,
+      "skipped": 0
+    }
+  },
+  "testMethods": [
+    {
+      "parameters": [
+        "Test Trello mobile app"
+      ],
+      "suite": "Default Suite",
+      "test": "TrelloCucumber",
+      "packageInfo": "runner",
+      "className": "TestTrelloRunnerMobile",
+      "methodName": "feature",
+      "status": "Passed",
+      "startTime": "2020-07-07T18:15:19.023+05:30",
+      "endTime": "2020-07-07T18:15:19.084+05:30",
+      "description": "Runs Cucumber Feature"
+    }
+  ],
+  "configurationMethods": [
+    {
+      "type": "BeforeClass",
+      "suite": "Default Suite",
+      "test": "TrelloCucumber",
+      "packageInfo": "runner",
+      "className": "TestTrelloRunnerMobile",
+      "methodName": "setUpClass",
+      "status": "Passed",
+      "startTime": "2020-07-07T18:15:18.364+05:30",
+      "endTime": "2020-07-07T18:15:18.834+05:30",
+      "description": ""
+    },
+    {
+      "type": "AfterClass",
+      "suite": "Default Suite",
+      "test": "TrelloCucumber",
+      "packageInfo": "runner",
+      "className": "TestTrelloRunnerMobile",
+      "methodName": "tearDownClass",
+      "status": "Passed",
+      "startTime": "2020-07-07T18:15:19.095+05:30",
+      "endTime": "2020-07-07T18:15:19.107+05:30",
+      "description": ""
+    }
+  ],
+  "configSummary": {
+    "currentDate": "2020-07-07T18:15:18.309+05:30"
+  },
+  "localConfigSummary": [
+    {
+      "currentDate": "2020-07-07T18:15:18.321+05:30",
+      "suite": "Default Suite",
+      "test": "TrelloCucumber"
+    }
+  ],
+  "reporterMetadata": {
+    "currentDate": {
+      "displayLabel": "Current Date"
+    }
+  }
+}

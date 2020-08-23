@@ -1,0 +1,8 @@
+defaultClient: android
+defaultLocale: en_US
+pageTitle:
+  en_US: Support Page
+elements:
+  loginBtn:
+    en_US:
+      android: id=com.trello:id/log_in_button
